@@ -1,13 +1,14 @@
 bug-001-character-upward-dash.md
 
-Title: Character cannot dash diagonally
+Title: Character cannot dash diagonally upward
 
 Steps to reproduce:
+
 Start the game.
-Dash upwards right.
+Attempt to dash diagonally upward (e.g., up-right).
 
 Expected result:
-The character dash to the desired position.
+The character dashes toward the intended diagonal direction.
 
 Actual result:
-The character won't dash, though works for every another position.
+The character does not dash upward-diagonally, while dashing works correctly in all other directions.
